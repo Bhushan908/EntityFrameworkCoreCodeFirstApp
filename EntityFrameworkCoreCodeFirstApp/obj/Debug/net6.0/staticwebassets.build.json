@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kZrJsrS/KjJ+9gHM9BV6IRjY35yazfXgLMWAGyLG16g=",
+  "Source": "EntityFrameworkCoreCodeFirstApp",
+  "BasePath": "_content/EntityFrameworkCoreCodeFirstApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
